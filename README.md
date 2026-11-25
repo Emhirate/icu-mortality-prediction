@@ -300,7 +300,7 @@ Further work would be required to assess external validity, probability calibrat
 
 ## Author
 
-**Azeez Idris**
+**Azeez Idris Dolapo**
 
 Biomedical Engineering | Machine Learning | Data Science
 
