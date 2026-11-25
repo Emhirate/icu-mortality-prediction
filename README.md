@@ -199,7 +199,7 @@ An interactive web application was developed using Streamlit to demonstrate the 
 
 The application allows users to enter selected patient characteristics, clinical measurements, and physiological indicators to obtain a model-generated estimate of in-hospital mortality probability.
 
-**Live Application:** [Launch Streamlit Application](YOUR_STREAMLIT_APP_URL)
+**Live Application:** [Launch Streamlit Application]([YOUR_STREAMLIT_APP_URL](https://icu-mortality-prediction-ictebzrxafrw8uylqlytvm.streamlit.app/))
 
 ## Technologies and Libraries
 
