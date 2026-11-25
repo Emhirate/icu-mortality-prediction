@@ -187,8 +187,6 @@ The optimized LightGBM model achieved improved cross-validation performance over
 
 Visualizations generated during model evaluation will be included here.
 
-Once the figures have been saved in the repository, you can display them using:
-
 ```markdown
 ![Feature Importance](assets/figures/feature_importance.png)
 
